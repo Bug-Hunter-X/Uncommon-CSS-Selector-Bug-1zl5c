@@ -1,0 +1,1 @@
+The selector was too broad and was causing unintended styling effects. Adding more specificity to the selector resolved the issue.  Consider using more specific selectors or the `:not()` pseudo-class if you wish to avoid applying styles to particular elements.
